@@ -1,5 +1,6 @@
-// Consultar elemento en posicion P
+## Consultar elemento en posicion P
 
+~~~
 Tipo_dato ConsultaPosicion ( Lista L , Num p ) {
 	Lista aux ;
 	Num i;
@@ -11,3 +12,4 @@ Tipo_dato ConsultaPosicion ( Lista L , Num p ) {
 	}
 	RETORNAR aux -> info ;
 }
+~~~
