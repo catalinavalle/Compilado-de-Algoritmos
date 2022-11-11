@@ -1,5 +1,6 @@
-// INSERTAR AL PRINCIPIO
+## INSERTAR AL PRINCIPIO
 
+~~~
 Tipo_dato  * InsertaAlPrincipio ( Tipo_dato L[n ], Tipo_dato X ){
 	Num i;
 	i = n +1;
@@ -11,3 +12,4 @@ Tipo_dato  * InsertaAlPrincipio ( Tipo_dato L[n ], Tipo_dato X ){
 	n = n +1;
 	RETORNAR L;
 }
+~~~
