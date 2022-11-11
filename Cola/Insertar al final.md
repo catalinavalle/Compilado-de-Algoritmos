@@ -1,4 +1,4 @@
-Insertar al final
+## Insertar al final
 ~~~
 Fila InsertarFila ( Fila F , Tipo_dato x) {
 	Fila pNodo , aux ;
