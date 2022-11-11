@@ -1,4 +1,4 @@
-DEFINICION DE FILA O COLA
+## DEFINICION DE FILA O COLA
 ~~~
 struct Nodo {
 	Tipo_dato info ;
