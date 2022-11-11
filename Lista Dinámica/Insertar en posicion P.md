@@ -1,3 +1,6 @@
+## Insertar en posición P
+
+~~~
 Lista InsertaEnPosicion ( Lista L , Tipo_dato x , Num p ){
 	Lista pNodo , aux ;
 	Num i , largo ;
@@ -23,3 +26,4 @@ Lista InsertaEnPosicion ( Lista L , Tipo_dato x , Num p ){
 	pNodo = NULL ;
 	RETORNAR L;
 }
+~~~
