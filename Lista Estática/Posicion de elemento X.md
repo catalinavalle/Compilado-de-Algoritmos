@@ -1,5 +1,6 @@
-// Consultar posicion de elemento X
+## Consultar posicion de elemento X
 
+~~~
 Num LocalizaElemento ( Tipo_dato L[n] , Tipo_datos X ){
 	Num i;
 	i =1;
@@ -11,3 +12,4 @@ Num LocalizaElemento ( Tipo_dato L[n] , Tipo_datos X ){
 	}
 	RETORNAR -1;
 }
+~~~
