@@ -1,5 +1,6 @@
-// DEFINICION DE PILA
+## DEFINICION DE PILA
 
+~~~
 struct Nodo {
 	Tipo_dato info ;
 	struct Nodo * sig ;
@@ -17,3 +18,4 @@ Pila CreaNodo ( Tipo_dato val1 ){
 }
 Pila P = NULL ;
 P = CreaNodo ( valor1 );
+~~~
