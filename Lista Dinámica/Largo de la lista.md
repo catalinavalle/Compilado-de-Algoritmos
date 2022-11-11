@@ -1,5 +1,6 @@
-// Largo de la lista
+## Largo de la lista
 
+~~~
 Num LargoLista ( Lista L ){
 	Lista aux ;
 	Num cont ;
@@ -11,3 +12,4 @@ Num LargoLista ( Lista L ){
 		}
 	RETORNAR cont ;
 }
+~~~
