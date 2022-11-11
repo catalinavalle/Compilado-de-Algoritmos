@@ -1,5 +1,6 @@
-// PUSH: Insertar al principio
+## PUSH: Insertar al principio
 
+~~~
 Pila Push ( Pila P , Tipo_dato x ) {
 	Pila pNodo ;
 	pNodo = CreaNodo ( x );
@@ -8,3 +9,4 @@ Pila Push ( Pila P , Tipo_dato x ) {
 	pNodo = NULL ;
 	RETORNAR P ;
 }
+~~~
