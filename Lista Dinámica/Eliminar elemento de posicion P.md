@@ -1,5 +1,6 @@
-// Eliminar elemento de posicion P
+## Eliminar elemento de posicion P
 
+~~~
 Lista EliminaListaPosicion ( Lista L , Num p ){
 	Lista aux1 , aux2 ;
 	Num i;
@@ -23,3 +24,4 @@ Lista EliminaListaPosicion ( Lista L , Num p ){
 	aux1 = NULL ;
 	RETORNAR L;
 }
+~~~
