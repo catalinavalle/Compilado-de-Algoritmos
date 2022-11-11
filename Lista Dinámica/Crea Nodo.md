@@ -1,5 +1,6 @@
-// Crea nodo
+## Crea nodo
 
+~~~
 Lista CreaNodo ( val1 , ... , valn ){
 	Lista aux ;
 	aux = ( Lista ) malloc ( sizeof ( tNodo ));
@@ -14,3 +15,4 @@ Lista CreaNodo ( val1 , ... , valn ){
 
 Lista L = NULL ;
 L = CreaNodo ( val1 , ... , valn );
+~~~
