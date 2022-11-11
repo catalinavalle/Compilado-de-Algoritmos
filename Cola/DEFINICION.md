@@ -1,5 +1,5 @@
-// DEFINICION DE FILA O COLA
-
+DEFINICION DE FILA O COLA
+'''
 struct Nodo {
 	Tipo_dato info ;
 	struct Nodo * sig ;
@@ -17,3 +17,4 @@ Fila CreaNodo ( Tipo_dato val1 ){
 }
 Fila F = NULL ;
 F = CreaNodo ( valor1 );
+'''
