@@ -1,10 +1,11 @@
-// Algoritmo de Prim
+## Algoritmo de Prim
 
 - Permite encontrar el Árbol de Cobertura Mínimo (ACM) en un grafo
 ponderado/valuado.
 	Permite encontrar aquel árbol, subgrafo del inicial (debe poseer todos
 	los nodos), que sea de costo mínimo.
 
+~~~
 Conjunto Prim (G (V , A ): Grafo valuado conexo no dirigido ){
 	T = VACIO ; // Lista de aristas que forman al ACM ( Salida )
 	N = { Escoger cualquier vertice de V}
@@ -15,3 +16,4 @@ Conjunto Prim (G (V , A ): Grafo valuado conexo no dirigido ){
 	}
 	RETORNAR T;
 }
+~~~
