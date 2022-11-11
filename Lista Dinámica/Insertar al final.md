@@ -1,5 +1,6 @@
-// Insertar al final
+## Insertar al final
 
+~~~
 Lista InsertarFinal ( Lista L , Tipo_dato x ){
 Lista pNodo , aux ;
 	pNodo = CreaNodo (x );
@@ -14,3 +15,4 @@ Lista pNodo , aux ;
 	}
 	pNodo = NULL ;
 }
+~~~
