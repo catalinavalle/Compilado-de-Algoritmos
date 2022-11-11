@@ -1,5 +1,6 @@
-// Insertar en posicion P
+## Insertar en posicion P
 
+~~~
 Tipo_dato * InsertaEnPosicionP ( Tipo_dato L[n ], Tipo_dato X , Num p ){
 	Num i;
 	i = n +1;
@@ -11,3 +12,4 @@ Tipo_dato * InsertaEnPosicionP ( Tipo_dato L[n ], Tipo_dato X , Num p ){
 	n = n +1;
 	RETORNAR L;
 }
+~~~
