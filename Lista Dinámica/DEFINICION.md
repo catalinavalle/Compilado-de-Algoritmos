@@ -1,5 +1,6 @@
-// DEFINICION
+## DEFINICION
 
+~~~
 struct Nodo {
 
 	tipo_dato info1 ;
@@ -13,4 +14,4 @@ struct Nodo {
 
 typedef struct Nodo tNodo ;
 typedef tNodo * Lista ;
-
+~~~
