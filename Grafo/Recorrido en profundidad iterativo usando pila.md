@@ -1,5 +1,6 @@
-// Recorrido en profundidad iterativo usando pila
+## Recorrido en profundidad iterativo usando pila
 
+~~~
 Nada ProfIter (M[n]; nodo inicial){
 	Pila P;
 	BOOL Visitado [n ]; // Todos los nodos inicialmente no visitados
@@ -22,3 +23,4 @@ Nada ProfIter (M[n]; nodo inicial){
 		}
 	}
 }
+~~~
