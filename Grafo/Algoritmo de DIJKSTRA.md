@@ -17,6 +17,8 @@ Implementación:
 	- Arreglo de costos acumulados
 	- Arreglo de nodos anteriores.
 
+~~~
+
 Conjunto Dijkstra (C : Matriz de costos de orden n , v0 : nodo origen ){
 	BOOL Visitado [n ];
 	Num CostoAcum [n] , NodoAnt [n ], i , j ;
@@ -88,3 +90,4 @@ Num NodoMinimoCostoSinVisitar ( Num CostoAcum [n], BOOL Visitados [n ]) {
 	}
 	RETORNAR nodo ;
 }
+~~~
