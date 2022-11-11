@@ -1,4 +1,4 @@
-Algoritmo de DIJKSTRA
+##Algoritmo de DIJKSTRA
 
 - Permite encontrar los caminos de costo mínimo en grafos ponderados/valuados.
 - Este FAMOSO algoritmo permite construir todos los caminos de costo
