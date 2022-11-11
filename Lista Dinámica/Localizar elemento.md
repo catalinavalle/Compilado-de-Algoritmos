@@ -1,5 +1,6 @@
-// Localizar elemento
+## Localizar elemento
 
+~~~
 Num LocalizarElemento ( Lista L , Tipo_dato x) {
 	Lista aux ;
 	Num i;
@@ -13,3 +14,4 @@ Num LocalizarElemento ( Lista L , Tipo_dato x) {
 	}
 	RETORNAR -1;
 }
+~~~
