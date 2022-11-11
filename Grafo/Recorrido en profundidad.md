@@ -1,5 +1,6 @@
-// Recorrido en profundidad
+## Recorrido en profundidad
 
+~~~
 Void ProfundidadRec ( Num nodo ){
 	Num i;
 	Visitado [ nodo ] = VERDADERO ;
@@ -13,3 +14,4 @@ Void ProfundidadRec ( Num nodo ){
 		i = i + 1;
 	}
 }
+~~~
