@@ -1,5 +1,6 @@
-// Recorrido en amplitud
+## Recorrido en amplitud
 
+~~~
 Nada Amplitud (M: Matriz de Adyacencia orden n; v0 : nodo inicial ){
 	Fila F;
 	BOOL Visitado [n ]; // Todos los nodos inicialmente no visitados
@@ -22,3 +23,4 @@ Nada Amplitud (M: Matriz de Adyacencia orden n; v0 : nodo inicial ){
 		}
 	}
 }
+~~~
