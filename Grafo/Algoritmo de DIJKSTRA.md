@@ -9,7 +9,7 @@
   menor (menor número de arcos).
 - Los costos del grafo siempre deben ser positivos.
 
-Implementación:
+### Implementación:
 - Debe trabajar con alguna representación computacional de grafos: 
 	- Matriz de costos.
 - Para cada información asociada a los nodos:
