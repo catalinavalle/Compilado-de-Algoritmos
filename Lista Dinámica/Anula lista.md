@@ -1,5 +1,6 @@
-// Eliminar lista
+## Eliminar lista
 
+~~~
 Lista AnulaLista ( Lista L ){
 	Lista aux ;
 	MIENTRAS ( L != NULL ) HACER {
@@ -10,3 +11,4 @@ Lista AnulaLista ( Lista L ){
 	}
 	RETORNAR L ;
 }
+~~~
