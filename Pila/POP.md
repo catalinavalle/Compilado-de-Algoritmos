@@ -1,5 +1,6 @@
-// POP: Extraer primer elemento de pila
+## POP: Extraer primer elemento de pila
 
+~~~
 Pila Pop ( Pila P ) {
 	Pila pNodo ;
 	SI ( P != NULL ) ENTONCES {
@@ -10,3 +11,4 @@ Pila Pop ( Pila P ) {
 	}
 	RETORNAR P ;
 }
+~~~
