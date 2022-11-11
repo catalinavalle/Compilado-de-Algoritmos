@@ -1,4 +1,4 @@
-Insertar al final, 2 punteros. U apunta al ultimo elemento.
+## Insertar al final, 2 punteros. U apunta al ultimo elemento.
 ~~~
 Fila InsertarFila ( Fila F , Fila U , Tipo_dato x) {
 	Fila pNodo ;
