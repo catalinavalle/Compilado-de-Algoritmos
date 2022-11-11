@@ -1,4 +1,4 @@
-// Insertar al final
+Insertar al final
 ~~~
 Fila InsertarFila ( Fila F , Tipo_dato x) {
 	Fila pNodo , aux ;
@@ -12,7 +12,7 @@ Fila InsertarFila ( Fila F , Tipo_dato x) {
 		aux - > sig = pNodo ;
 		aux = NULL ;
 	}
-pNodo = NULL ;
-RETORNAR F ;
+	pNodo = NULL ;
+	RETORNAR F ;
 }
 ~~~
