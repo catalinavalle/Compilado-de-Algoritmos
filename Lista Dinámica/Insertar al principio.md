@@ -1,5 +1,6 @@
-// Insertar al principio
+## Insertar al principio
 
+~~~
 Lista InsertarPrincipio ( Lista L , Tipo_dato x) {
 	Lista pNodo ;
 	pNodo = CreaNodo (x );
@@ -8,3 +9,4 @@ Lista InsertarPrincipio ( Lista L , Tipo_dato x) {
 	pNodo = NULL ;
 RETORNAR L;
 }
+~~~
