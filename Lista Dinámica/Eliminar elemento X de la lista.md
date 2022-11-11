@@ -1,5 +1,6 @@
-// Eliminar elemento X de la lista
+## Eliminar elemento X de la lista
 
+~~~
 Lista EliminaValor ( Lista L , Tipo_dato x ){
 	Lista aux1 , aux2 ;
 	SI (L -> info == x ) ENTONCES {
@@ -25,3 +26,4 @@ Lista EliminaValor ( Lista L , Tipo_dato x ){
 	}
 	RETORNAR L;
 }
+~~~
