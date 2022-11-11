@@ -1,5 +1,6 @@
-// Eliminar al principio
+## Eliminar al principio
 
+~~~
 Tipo_dato * EliminarAlPrincipio ( Tipo_dato L[ n ]){
 	Num i;
 	i = 1;
@@ -10,3 +11,4 @@ Tipo_dato * EliminarAlPrincipio ( Tipo_dato L[ n ]){
 	n = n -1;
 	RETORNAR L;
 }
+~~~
